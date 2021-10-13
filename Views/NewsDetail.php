@@ -10,7 +10,6 @@
     <!--Crousel Start!-->
     <div class="container">
         <div class="col-12">
-            <?php include("slider.php"); ?>
             <!--Crousel Finish!-->
             <div class="container p-0">
                 <div class="row ps-0 me-0">
