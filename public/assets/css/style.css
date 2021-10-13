@@ -1,0 +1,30 @@
+.blacktext {
+    text-shadow: 20px 20px 10px black;!important;
+}
+body {
+    height: 100%;
+    margin: 0;
+}
+html {
+    padding-bottom: 50px;
+    min-height: 100%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    position: relative;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 73px;
+    background-color: white;
+}
+.card-title{
+    min-height: 30px;
+    vertical-align: middle;
+}
+.cards{
+    min-height: 300px;
+}
